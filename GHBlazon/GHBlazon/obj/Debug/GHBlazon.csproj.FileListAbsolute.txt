@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\GHBlazon\GHBlazon\bin\Debug\GHBlazon.dll
+c:\users\administrator\documents\visual studio 2015\Projects\GHBlazon\GHBlazon\bin\Debug\GHBlazon.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\GHBlazon\GHBlazon\bin\Debug\Emc.InputAccel.CaptureClient.dll
+c:\users\administrator\documents\visual studio 2015\Projects\GHBlazon\GHBlazon\bin\Debug\Emc.InputAccel.CaptureClient.xml
+c:\users\administrator\documents\visual studio 2015\Projects\GHBlazon\GHBlazon\obj\Debug\GHBlazon.SetupForm.resources
+c:\users\administrator\documents\visual studio 2015\Projects\GHBlazon\GHBlazon\obj\Debug\GHBlazon.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\GHBlazon\GHBlazon\obj\Debug\GHBlazon.dll
+c:\users\administrator\documents\visual studio 2015\Projects\GHBlazon\GHBlazon\obj\Debug\GHBlazon.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\GHBlazon\GHBlazon\obj\Debug\GHBlazon.csprojResolveAssemblyReference.cache
+c:\Program Files (x86)\InputAccel\Client\binnt\GHBlazon.dll
+c:\Program Files (x86)\InputAccel\Client\binnt\GHBlazon.pdb
